@@ -26,8 +26,4 @@ H Βιοποικιλότητα είναι ο πλούτος της φύσης κ
 
 Στο παρακάτω βίντεο παρουσιάζεται το project και η υλοποίησή του.
 
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/ljROq9Gkw9w" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![Tρισδιάστατη ταΐστρα](./bf_project.png)](https://www.youtube.com/watch?v=ljROq9Gkw9w "Tρισδιάστατη ταΐστρα")
