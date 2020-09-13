@@ -22,8 +22,8 @@ H Βιοποικιλότητα είναι ο πλούτος της φύσης κ
 
 Στην φωτογραφία που ακολουθεί παρουσιάζεται η τρισδιάστατη ταΐστρα όπως εκτυπώθηκε από τον τριδιάστατο εκτυπωτή του σχολείου μας.
 
-![Η τρισδιάστατη ταΐστρα ζώων και πουλιών ](./IMG_1505.JPG)
+![Η τρισδιάστατη ταΐστρα ζώων και πουλιών ](https://github.com/vmirk/birdfeeder/blob/master/IMG_1505.JPG)
 
 Στο παρακάτω βίντεο παρουσιάζεται το project και η υλοποίησή του.
 
-[![Tρισδιάστατη ταΐστρα](./bf_project.png)](https://www.youtube.com/watch?v=ljROq9Gkw9w "Tρισδιάστατη ταΐστρα")
+[![Tρισδιάστατη ταΐστρα](https://github.com/vmirk/birdfeeder/blob/master/bf_project.png)](https://www.youtube.com/watch?v=ljROq9Gkw9w "Tρισδιάστατη ταΐστρα")
